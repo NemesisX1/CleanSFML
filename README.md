@@ -20,3 +20,4 @@ It is a personal project based on the **C** library **CSFML**.
     [x]Window Creation
     [x]Click management on text
     [x]Click management on sprite
+    [x]Text Management
