@@ -28,7 +28,7 @@ It is a personal project based on the **C** library **CSFML**.
 
         [-]Usage
             Make sure you have the complete CSFML package available on your OS.
-                $>make
+                $>make re
                 $>./test
 
 #### .Already Available 👾
