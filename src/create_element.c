@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2020
 ** CleanSFMl
 ** File description:
-** Include
+** Some useful functions for initialize some CSFML componant
 */
 
 #include "../include/create.h"
