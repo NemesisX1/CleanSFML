@@ -2,7 +2,7 @@
 
 It is a personal project based on the **C** library **CSFML**.
 
-### .Goal 🎓
+## Goal 🎓
 
     The main goal is to add a lot of useful functions to make more easy game
     or UI development for the CSFML users.
@@ -14,7 +14,7 @@ It is a personal project based on the **C** library **CSFML**.
     - ✨
     Some examples are in the CleanTest folder to help user see how to use te functions.
 
-### .Usage 👤
+## .Usage 👤
 
     Notice that for now the project is not in a package form.
     So the main way to use it is to compile the project with the source files themselves.
@@ -22,7 +22,8 @@ It is a personal project based on the **C** library **CSFML**.
     By the way you will not need to include the other common headers for the CSFML...
     Thanks to NemesisX1 🤓.
 
-##  .Run the CleanTest project 👏
+## .Run the CleanTest project 👏
+
     The CleanTest project is a small project to show the usage of the functions
     set in the projects.
 
@@ -31,13 +32,13 @@ It is a personal project based on the **C** library **CSFML**.
                 $>make re
                 $>./test
 
-#### .Already Available 👾
+## .Already Available 👾
 
-    [x]Sprite Creation
-    [x]Sprite Animation
-    [x]Window Creation
-    [x]Click management on text
-    [x]Click management on sprite
-    [x]Text Management
+- [x]Sprite Creation
+- [x]Sprite Animation
+- [x]Window Creation
+- [x]Click management on text
+- [x]Click management on sprite
+- [x]Text Management
 
--   To report error or suggest some news features please send a mail to <junior.medehou@hotmail.com>.
+> :pushpin: To report error or suggest some news features please send a mail to <junior.medehou@hotmail.com>.
