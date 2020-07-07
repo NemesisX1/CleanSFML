@@ -21,11 +21,12 @@ By the way you will not need to include the other common headers for the CSFML..
 
 ## .Run the CleanTest project 👏
 The CleanTest project is a small project to show the usage of the functions set in the projects.
-    - *Usage*
-
-            Make sure you have the complete CSFML package available on your OS.
-                $>make re
-                $>./test
+  
+  - *Usage*
+    Make sure you have the complete CSFML package available on your OS.
+    
+         $>make re
+         $>./test
 
 ## .Already Available 👾
 
